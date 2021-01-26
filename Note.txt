@@ -1,4 +1,7 @@
 Sass with auto-refresh (and more) made easy (https://www.youtube.com/watch?v=wYWf2m_yzBQ)
 
 https://github.com/kevin-powell/sass-made-easy
+https://github.com/Annie-Huang/sass-made-easy
+========================================================
 
+C:\react\sass-made-easy>npm init -y
