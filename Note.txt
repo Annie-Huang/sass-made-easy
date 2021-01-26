@@ -6,3 +6,5 @@ https://github.com/Annie-Huang/sass-made-easy
 
 C:\react\sass-made-easy>npm init -y
 C:\react\sass-made-easy>npm install sass --save-dev
+
+C:\react\sass-made-easy>sass --watch src/scss:dist/css      << compile everything from src/scss and output it to dist/css
