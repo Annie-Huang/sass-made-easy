@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Annie-Huang/sass-made-easy/issues"
   },
-  "homepage": "https://github.com/Annie-Huang/sass-made-easy#readme"
+  "homepage": "https://github.com/Annie-Huang/sass-made-easy#readme",
+  "devDependencies": {
+    "sass": "^1.32.5"
+  }
 }

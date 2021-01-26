@@ -5,3 +5,4 @@ https://github.com/Annie-Huang/sass-made-easy
 ========================================================
 
 C:\react\sass-made-easy>npm init -y
+C:\react\sass-made-easy>npm install sass --save-dev
