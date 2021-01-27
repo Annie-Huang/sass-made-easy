@@ -11,3 +11,6 @@ C:\react\sass-made-easy>npm install parcel-bundler --save-dev
 
 C:\react\sass-made-easy>sass --watch src/scss:dist/css      << compile everything from src/scss and output it to dist/css
 C:\react\sass-made-easy>npm run dev
+
+the dev mode will be faster but will not do optimization
+the build mode (prod) will do optimization such as css nano, auto prefixer. It will do optimization for javascript too.
