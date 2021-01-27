@@ -10,3 +10,4 @@ C:\react\sass-made-easy>npm install parcel-bundler --save-dev
 
 
 C:\react\sass-made-easy>sass --watch src/scss:dist/css      << compile everything from src/scss and output it to dist/css
+C:\react\sass-made-easy>npm run dev
